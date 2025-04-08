@@ -1,4 +1,4 @@
-🚀 **Smart Home on a Budget – My Latest Project!**
+🚀 **Smart Home (Remote And Voice Assistance) – My Latest Project!**
 
 Smart home systems can often be expensive and complex to set up. So, I set out to build an **affordable, easy-to-use Smart Home Remote and Voice Assistant** using a **Raspberry Pi 4**. 
 
